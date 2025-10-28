@@ -20,4 +20,4 @@ let b = 3
 console.log("SUBTRACT:", subtract(a, b))
 console.log("MULTIPLY:", multiply(a, b))
 console.log("DIVIDE:", divide(a, b))
-console.log("SQUARE:", square(a))
+console.log("SQUARE:", square(a)) 
